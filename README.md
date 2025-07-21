@@ -13,32 +13,6 @@ Here're some of the project's best features:
 *   Search functionality  
 *   Meal details ( ingredients , instruction , ... )
 
-<h2>🛠️ Installation Steps:</h2>
-
-<p>1. Download repositry from github</p>
-
-```
-git clone https://github.com/YasinMahmoudi/foody.git
-```
-
-<p>2. Change project directory</p>
-
-```
-cd foody
-```
-
-<p>3. Installing node dependencies</p>
-
-```
-npm install
-```
-
-<p>4. Run project locally</p>
-
-```
-npm start
-```
-
   
   
 <h2>💻 Built with</h2>
